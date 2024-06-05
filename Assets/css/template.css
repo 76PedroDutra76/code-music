@@ -1,0 +1,23 @@
+.header-bar{
+    background-color: #000000;
+    height: 75px;
+}
+
+.search{
+    background-color: #313131;
+    height: 45px;
+    width: 525px;
+    color: #8E8E8E;
+}
+
+.input-config{
+    padding-left: 20px;
+    padding-top: 4.5px;
+    font-family: "Source Code Pro", monospace;
+    font-weight: 500;
+    font-size: 25px;
+}
+
+.bi-search{
+    margin-left: 475px;
+}
